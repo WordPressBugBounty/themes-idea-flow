@@ -132,7 +132,7 @@ add_action('init', 'idea_flow_register_block_pattern_categories');
 require_once trailingslashit(get_template_directory()) . 'inc/vendor/autoload.php';
 
 use SuperbThemesThemeInformationContent\ThemeEntryPoint;
-
+add_action("init", function () {
 ThemeEntryPoint::init([
     'type' => 'block', // block / classic
     'theme_url' => 'https://superbthemes.com/idea-flow/',
@@ -170,3 +170,4 @@ ThemeEntryPoint::init([
     	)
     )
 ]);
+});
