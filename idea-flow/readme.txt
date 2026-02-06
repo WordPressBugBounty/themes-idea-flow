@@ -2,9 +2,9 @@
 
 Contributors: SuperbAddons
 Requires at least: 6.2
-Tested up to: 6.6
-Stable tag: 1.2
-Version: 1.2
+Tested up to: 6.9
+Stable tag: 2.1
+Version: 2.1
 License: GNU General Public License v3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 Tags: theme-options, threaded-comments, translation-ready, sticky-post, footer-widgets, custom-background, custom-colors, custom-header, custom-logo, custom-menu, featured-image-header, featured-images, flexible-header, right-sidebar, one-column, two-columns, three-columns, buddypress, full-width-template, e-commerce, blog, news
@@ -17,7 +17,7 @@ Idea Flow is the perfect WordPress theme for you, if you're a company, agency, o
 
 
 ## Copyright
-Idea Flow WordPress Theme, Copyright 2024 SuperbAddons
+Idea Flow WordPress Theme, Copyright 2026 SuperbAddons
 Idea Flow is distributed under the terms of the GNU GPL
 
 Idea Flow bundles the following third-party resources:
